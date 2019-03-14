@@ -1,0 +1,674 @@
+{
+  "Activity Centers": [
+    {
+      "text": "Circle Cutter",
+      "value": {
+        "category": "Activity Centers",
+        "expense": "Circle Cutter"
+      }
+    },
+    {
+      "text": "Button Maker",
+      "value": {
+        "category": "Activity Centers",
+        "expense": "Button Maker"
+      }
+    },
+    {
+      "text": "Activity Center Supplies",
+      "value": {
+        "category": "Activity Centers",
+        "expense": "Activity Center Supplies"
+      }
+    },
+    {
+      "text": "Woodworking supplies",
+      "value": {
+        "category": "Activity Centers",
+        "expense": "Woodworking supplies"
+      }
+    },
+    {
+      "text": "Dress-Up",
+      "value": {
+        "category": "Activity Centers",
+        "expense": "Dress-Up"
+      }
+    }
+  ],
+  "Birthday Party": [
+    {
+      "text": "Cakes",
+      "value": {
+        "category": "Birthday Party",
+        "expense": "Cakes"
+      }
+    },
+    {
+      "text": "Decorations",
+      "value": {
+        "category": "Birthday Party",
+        "expense": "Decorations"
+      }
+    },
+    {
+      "text": "Activities",
+      "value": {
+        "category": "Birthday Party",
+        "expense": "Activities"
+      }
+    },
+    {
+      "text": "Jumpers",
+      "value": {
+        "category": "Birthday Party",
+        "expense": "Jumpers"
+      }
+    },
+    {
+      "text": "Gifts",
+      "value": {
+        "category": "Birthday Party",
+        "expense": "Gifts"
+      }
+    }
+  ],
+  "Camper Cabins": [
+    {
+      "text": "Toiletry Kits",
+      "value": {
+        "category": "Camper Cabins",
+        "expense": "Toiletry Kits"
+      }
+    },
+    {
+      "text": "Bedding",
+      "value": {
+        "category": "Camper Cabins",
+        "expense": "Bedding"
+      }
+    },
+    {
+      "text": "Bathroom Supplies",
+      "value": {
+        "category": "Camper Cabins",
+        "expense": "Bathroom Supplies"
+      }
+    },
+    {
+      "text": "Poster Supplies",
+      "value": {
+        "category": "Camper Cabins",
+        "expense": "Poster Supplies"
+      }
+    }
+  ],
+  "Camper Supplies": [
+    {
+      "text": "Camper Supplies",
+      "value": {
+        "category": "Camper Supplies",
+        "expense": "Camper Supplies"
+      }
+    },
+    {
+      "text": "Name tags",
+      "value": {
+        "category": "Camper Supplies",
+        "expense": "Name tags"
+      }
+    },
+    {
+      "text": "Extra Clothes (everything)",
+      "value": {
+        "category": "Camper Supplies",
+        "expense": "Extra Clothes (everything)"
+      }
+    }
+  ],
+  "Curriculum": [
+    {
+      "text": "Banners",
+      "value": {
+        "category": "Curriculum",
+        "expense": "Banners"
+      }
+    },
+    {
+      "text": "5 gallon water cooler (2)",
+      "value": {
+        "category": "Curriculum",
+        "expense": "5 gallon water cooler (2)"
+      }
+    },
+    {
+      "text": "A/V Equipment",
+      "value": {
+        "category": "Curriculum",
+        "expense": "A/V Equipment"
+      }
+    },
+    {
+      "text": "Projector - BORROW",
+      "value": {
+        "category": "Curriculum",
+        "expense": "Projector - BORROW"
+      }
+    },
+    {
+      "text": "Drama Team",
+      "value": {
+        "category": "Curriculum",
+        "expense": "Drama Team"
+      }
+    },
+    {
+      "text": "Teaching Props",
+      "value": {
+        "category": "Curriculum",
+        "expense": "Teaching Props"
+      }
+    },
+    {
+      "text": "Lumber + Screws",
+      "value": {
+        "category": "Curriculum",
+        "expense": "Lumber + Screws"
+      }
+    }
+  ],
+  "Essentials": [
+    {
+      "text": "Campground Deposit",
+      "value": {
+        "category": "Essentials",
+        "expense": "Campground Deposit"
+      }
+    },
+    {
+      "text": "Campground (sans Deposit)",
+      "value": {
+        "category": "Essentials",
+        "expense": "Campground (sans Deposit)"
+      }
+    },
+    {
+      "text": "Insurance",
+      "value": {
+        "category": "Essentials",
+        "expense": "Insurance"
+      }
+    }
+  ],
+  "Food": [
+    {
+      "text": "Bus Snack",
+      "value": {
+        "category": "Food",
+        "expense": "Bus Snack"
+      }
+    },
+    {
+      "text": "Sunday Dinner",
+      "value": {
+        "category": "Food",
+        "expense": "Sunday Dinner"
+      }
+    },
+    {
+      "text": "Monday Breakfast",
+      "value": {
+        "category": "Food",
+        "expense": "Monday Breakfast"
+      }
+    },
+    {
+      "text": "Friday Lunch",
+      "value": {
+        "category": "Food",
+        "expense": "Friday Lunch"
+      }
+    },
+    {
+      "text": "Welcome Home Dinner",
+      "value": {
+        "category": "Food",
+        "expense": "Welcome Home Dinner"
+      }
+    }
+  ],
+  "Leadership Meetings": [
+    {
+      "text": "Dinner/Snacks/Drinks",
+      "value": {
+        "category": "Leadership Meetings",
+        "expense": "Dinner/Snacks/Drinks"
+      }
+    },
+    {
+      "text": "Supplies",
+      "value": {
+        "category": "Leadership Meetings",
+        "expense": "Supplies"
+      }
+    }
+  ],
+  "Location Scouting/Visits": [
+    {
+      "text": "Meals",
+      "value": {
+        "category": "Location Scouting/Visits",
+        "expense": "Meals"
+      }
+    },
+    {
+      "text": "Gas",
+      "value": {
+        "category": "Location Scouting/Visits",
+        "expense": "Gas"
+      }
+    }
+  ],
+  "Misc": [
+    {
+      "text": "Startup Kit",
+      "value": {
+        "category": "Misc",
+        "expense": "Startup Kit"
+      }
+    },
+    {
+      "text": "Pet Partners",
+      "value": {
+        "category": "Misc",
+        "expense": "Pet Partners"
+      }
+    },
+    {
+      "text": "Red Carpet",
+      "value": {
+        "category": "Misc",
+        "expense": "Red Carpet"
+      }
+    },
+    {
+      "text": "Costume Bins",
+      "value": {
+        "category": "Misc",
+        "expense": "Costume Bins"
+      }
+    },
+    {
+      "text": "Compliance Fee",
+      "value": {
+        "category": "Misc",
+        "expense": "Compliance Fee"
+      }
+    },
+    {
+      "text": "Storage Supplies",
+      "value": {
+        "category": "Misc",
+        "expense": "Storage Supplies"
+      }
+    },
+    {
+      "text": "Participation Stickers",
+      "value": {
+        "category": "Misc",
+        "expense": "Participation Stickers"
+      }
+    },
+    {
+      "text": "Background Checks",
+      "value": {
+        "category": "Misc",
+        "expense": "Background Checks"
+      }
+    },
+    {
+      "text": "Misc Expenses",
+      "value": {
+        "category": "Misc",
+        "expense": "Misc Expenses"
+      }
+    },
+    {
+      "text": "Reptile Presentation",
+      "value": {
+        "category": "Misc",
+        "expense": "Reptile Presentation"
+      }
+    },
+    {
+      "text": "Camp Photo - Disguise",
+      "value": {
+        "category": "Misc",
+        "expense": "Camp Photo - Disguise"
+      }
+    },
+    {
+      "text": "Misc Expense Cash",
+      "value": {
+        "category": "Misc",
+        "expense": "Misc Expense Cash"
+      }
+    },
+    {
+      "text": "Laundry",
+      "value": {
+        "category": "Misc",
+        "expense": "Laundry"
+      }
+    }
+  ],
+  "Nurses Station": [
+    {
+      "text": "Nurses Station",
+      "value": {
+        "category": "Nurses Station",
+        "expense": "Nurses Station"
+      }
+    }
+  ],
+  "Photo Station": [
+    {
+      "text": "Photo Station",
+      "value": {
+        "category": "Photo Station",
+        "expense": "Photo Station"
+      }
+    }
+  ],
+  "Registration Day": [
+    {
+      "text": "Registration Day",
+      "value": {
+        "category": "Registration Day",
+        "expense": "Registration Day"
+      }
+    }
+  ],
+  "Scavenger Hunt": [
+    {
+      "text": "Scavenger Hunt supplies",
+      "value": {
+        "category": "Scavenger Hunt",
+        "expense": "Scavenger Hunt supplies"
+      }
+    }
+  ],
+  "Sports": [
+    {
+      "text": "Swimming Toys",
+      "value": {
+        "category": "Sports",
+        "expense": "Swimming Toys"
+      }
+    },
+    {
+      "text": "Field Games",
+      "value": {
+        "category": "Sports",
+        "expense": "Field Games"
+      }
+    },
+    {
+      "text": "Gym",
+      "value": {
+        "category": "Sports",
+        "expense": "Gym"
+      }
+    },
+    {
+      "text": "Swimming Towels",
+      "value": {
+        "category": "Sports",
+        "expense": "Swimming Towels"
+      }
+    },
+    {
+      "text": "Swimsuits",
+      "value": {
+        "category": "Sports",
+        "expense": "Swimsuits"
+      }
+    }
+  ],
+  "Staff Resources": [
+    {
+      "text": "Megaphone",
+      "value": {
+        "category": "Staff Resources",
+        "expense": "Megaphone"
+      }
+    },
+    {
+      "text": "Walkie Talkie",
+      "value": {
+        "category": "Staff Resources",
+        "expense": "Walkie Talkie"
+      }
+    },
+    {
+      "text": "Name Tags",
+      "value": {
+        "category": "Staff Resources",
+        "expense": "Name Tags"
+      }
+    },
+    {
+      "text": "Counselor Shirts",
+      "value": {
+        "category": "Staff Resources",
+        "expense": "Counselor Shirts"
+      }
+    },
+    {
+      "text": "Lanyards (included from kids)",
+      "value": {
+        "category": "Staff Resources",
+        "expense": "Lanyards (included from kids)"
+      }
+    },
+    {
+      "text": "Sunscreen",
+      "value": {
+        "category": "Staff Resources",
+        "expense": "Sunscreen"
+      }
+    },
+    {
+      "text": "Flashlights",
+      "value": {
+        "category": "Staff Resources",
+        "expense": "Flashlights"
+      }
+    }
+  ],
+  "Transportation": [
+    {
+      "text": "Bus - Church To Camp",
+      "value": {
+        "category": "Transportation",
+        "expense": "Bus - Church To Camp"
+      }
+    },
+    {
+      "text": "Bus - Camp to Church",
+      "value": {
+        "category": "Transportation",
+        "expense": "Bus - Camp to Church"
+      }
+    },
+    {
+      "text": "Uhaul (To and From)",
+      "value": {
+        "category": "Transportation",
+        "expense": "Uhaul (To and From)"
+      }
+    }
+  ],
+  "Volunteer Break Room": [
+    {
+      "text": "Snacks/Drinks/Plates/Utin",
+      "value": {
+        "category": "Volunteer Break Room",
+        "expense": "Snacks/Drinks/Plates/Utin"
+      }
+    },
+    {
+      "text": "Construction Paper",
+      "value": {
+        "category": "Volunteer Break Room",
+        "expense": "Construction Paper"
+      }
+    },
+    {
+      "text": "Markers",
+      "value": {
+        "category": "Volunteer Break Room",
+        "expense": "Markers"
+      }
+    },
+    {
+      "text": "Cubby 4 Heart",
+      "value": {
+        "category": "Volunteer Break Room",
+        "expense": "Cubby 4 Heart"
+      }
+    }
+  ],
+  "Volunteer Interviews": [
+    {
+      "text": "Food/Drink/Coffee",
+      "value": {
+        "category": "Volunteer Interviews",
+        "expense": "Food/Drink/Coffee"
+      }
+    }
+  ],
+  "Volunteer Prep": [
+    {
+      "text": "Camp Sheet Music",
+      "value": {
+        "category": "Volunteer Prep",
+        "expense": "Camp Sheet Music"
+      }
+    }
+  ],
+  "Volunteer Training Days": [
+    {
+      "text": "Organization Supplies",
+      "value": {
+        "category": "Volunteer Training Days",
+        "expense": "Organization Supplies"
+      }
+    },
+    {
+      "text": "Training Material",
+      "value": {
+        "category": "Volunteer Training Days",
+        "expense": "Training Material"
+      }
+    },
+    {
+      "text": "Personality Test",
+      "value": {
+        "category": "Volunteer Training Days",
+        "expense": "Personality Test"
+      }
+    },
+    {
+      "text": "Powerpoint Clicker",
+      "value": {
+        "category": "Volunteer Training Days",
+        "expense": "Powerpoint Clicker"
+      }
+    },
+    {
+      "text": "Snacks Day 1",
+      "value": {
+        "category": "Volunteer Training Days",
+        "expense": "Snacks Day 1"
+      }
+    },
+    {
+      "text": "Pens/Highlighters/Sharpies",
+      "value": {
+        "category": "Volunteer Training Days",
+        "expense": "Pens/Highlighters/Sharpies"
+      }
+    },
+    {
+      "text": "Nametags",
+      "value": {
+        "category": "Volunteer Training Days",
+        "expense": "Nametags"
+      }
+    },
+    {
+      "text": "Breakfast Day 1",
+      "value": {
+        "category": "Volunteer Training Days",
+        "expense": "Breakfast Day 1"
+      }
+    },
+    {
+      "text": "Lunch Day 1",
+      "value": {
+        "category": "Volunteer Training Days",
+        "expense": "Lunch Day 1"
+      }
+    },
+    {
+      "text": "Snacks Day 2",
+      "value": {
+        "category": "Volunteer Training Days",
+        "expense": "Snacks Day 2"
+      }
+    },
+    {
+      "text": "Breakfast Day 2",
+      "value": {
+        "category": "Volunteer Training Days",
+        "expense": "Breakfast Day 2"
+      }
+    },
+    {
+      "text": "Lunch Day 2",
+      "value": {
+        "category": "Volunteer Training Days",
+        "expense": "Lunch Day 2"
+      }
+    },
+    {
+      "text": "Snacks Day 3",
+      "value": {
+        "category": "Volunteer Training Days",
+        "expense": "Snacks Day 3"
+      }
+    },
+    {
+      "text": "Lunch Day 3",
+      "value": {
+        "category": "Volunteer Training Days",
+        "expense": "Lunch Day 3"
+      }
+    },
+    {
+      "text": "Breakfast Day 3",
+      "value": {
+        "category": "Volunteer Training Days",
+        "expense": "Breakfast Day 3"
+      }
+    },
+    {
+      "text": "Guest Speaker Gift/Card",
+      "value": {
+        "category": "Volunteer Training Days",
+        "expense": "Guest Speaker Gift/Card"
+      }
+    }
+  ]
+}
