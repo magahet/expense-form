@@ -13,5 +13,8 @@
     "firebase-functions": "^2.2.0",
     "googleapis": "^38.0.0"
   },
-  "private": true
+  "private": true,
+  "engines": {
+    "node": "8"
+  }
 }
