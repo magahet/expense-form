@@ -18,9 +18,9 @@ var config = {
 
 firebase.initializeApp(config)
 
-// const storage = firebase.storage().ref().child('rfkc-expenses/2019')
 const db = firebase.firestore()
 const expenses = db.collection('rfkc-expenses')
+const storage = firebase.storage().ref().child('rfkc-expenses/2019')
 
 // The shared state object that any vue component can get access to.
 // Has some placeholders that we’ll use further on!
