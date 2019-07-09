@@ -18,6 +18,7 @@ exports.syncToSheets = functions.firestore
   .onCreate(appendSheet)
 
 function appendSheet(snapshot) {
+  let id = snapshot.id
   let exp = snapshot.data()
 
   console.log(exp)
@@ -28,6 +29,7 @@ function appendSheet(snapshot) {
     let resource = {
       values: [
         [
+          id,
           exp.name,
           exp.date,
           exp.amount,
