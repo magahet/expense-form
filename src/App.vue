@@ -9,7 +9,7 @@
       <b-container class="my-4">
         <b-form-row class="p-1">
           <b-col>
-            <b-form-input type="text" v-model="name" required placeholder="Name"></b-form-input>
+            <b-form-input type="text" v-model="name" required placeholder="Volunteer Full Name"></b-form-input>
           </b-col>
 
           <b-col>
