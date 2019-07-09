@@ -1,5 +1,5 @@
 const functions = require('firebase-functions');
-const {google} = require('googleapis');
+const { google } = require('googleapis');
 const admin = require('firebase-admin');
 
 admin.initializeApp();
@@ -14,8 +14,8 @@ const jwtClient = new google.auth.JWT(
 const sheets = google.sheets('v4')
 
 exports.syncToSheets = functions.firestore
-    .document('rfkc-expenses/{id}')
-    .onCreate(appendSheet)
+  .document('rfkc-expenses/{id}')
+  .onCreate(appendSheet)
 
 function appendSheet(snapshot) {
   let exp = snapshot.data()
@@ -31,10 +31,10 @@ function appendSheet(snapshot) {
           exp.name,
           exp.date,
           exp.amount,
+          exp.description,
           exp.vendor,
           exp.category,
           exp.expense,
-          null,
           exp.receiptFilename
         ]
       ]
@@ -47,7 +47,7 @@ function appendSheet(snapshot) {
       resource,
       auth: jwtClient,
     }
-      
+
     sheets.spreadsheets.values.append(request, (err, response) => {
       console.log('sheet error: ' + err)
       console.log(response)
