@@ -31,7 +31,7 @@ export const store = {
 
     if (data.file) {
       let extension = data.file.name.split('.').pop()
-      let imageRef = storage.child(slugify(data.name) + '/' + moment().format() + extension)
+      let imageRef = storage.child(slugify(data.name) + '/' + moment().format() + '.' + extension)
 
       await imageRef.put(data.file)
       fileUrl = await imageRef.getDownloadURL()

@@ -24,7 +24,10 @@ function appendSheet(snapshot) {
   console.log(exp)
   //authenticate request
   jwtClient.authorize((err, tokens) => {
-    console.log('jwt error: ' + err)
+    if (err) {
+      console.error('jwt error: ' + err)
+      return
+    }
 
     let resource = {
       values: [
@@ -46,12 +49,16 @@ function appendSheet(snapshot) {
       spreadsheetId: functions.config().rfkc_expense_sheet.id,
       range: 'Expenses',
       valueInputOption: 'USER_ENTERED',
+      insertDataOption: 'INSERT_ROWS',
       resource,
       auth: jwtClient,
     }
 
     sheets.spreadsheets.values.append(request, (err, response) => {
-      console.log('sheet error: ' + err)
+      if (err) {
+        console.error('sheet error: ' + err)
+        return
+      }
       console.log(response)
     })
   })
