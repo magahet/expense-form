@@ -21,7 +21,7 @@ def main():
     expenses = pd.DataFrame(records)
     expenses.set_index("id")
     print(expenses)
-    expenses.to_csv("expenses.csv")
+    expenses.to_csv("expenses.csv", columns=["id", "name", "date", "amount", "description", "vendor", "category", "expense", "receiptFilename"])
 
 
 if __name__ == "__main__":
