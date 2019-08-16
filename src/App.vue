@@ -196,6 +196,8 @@ export default {
       this.name = null;
       this.file = null;
       this.itemize = false;
+      this.total = null;
+      this.taxTotal = null;
       this.expenses = [newExpense()];
       this.show = false;
       this.$nextTick(() => {
