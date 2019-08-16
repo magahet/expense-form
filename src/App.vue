@@ -193,7 +193,6 @@ export default {
       alert("Thanks! Your expense(s) have been submitted.");
     },
     onReset() {
-      this.name = null;
       this.file = null;
       this.itemize = false;
       this.total = null;
